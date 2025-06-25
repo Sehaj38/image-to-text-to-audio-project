@@ -10,10 +10,12 @@ REQIREMEMTS :
 
 EXPLAINATION :
 1. Image to Text -
+
    Use the Pillow library to open an image.
    
    Use pytesseract (Python wrapper for Tesseract OCR) to extract text from that image.
 3. Text to Speech
+
    Use gTTS (Google Text-to-Speech) to convert the extracted text into speech.
    
    Save the speech as an MP3 file.
