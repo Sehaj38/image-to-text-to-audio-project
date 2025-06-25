@@ -1,5 +1,5 @@
 # image-to-text-to-audio-project
-To covert text from an image to an audio file using python.
+To covert text from an image to an audio file using python. 
 REQIREMEMTS :
 1. Python 3.x
 2. Pillow library
